@@ -14,6 +14,6 @@
 		backdrop-filter: blur(10px);
 		display: grid;
 		place-items: center;
-		z-index: 1;
+		z-index: 999;
 	}
 </style>
